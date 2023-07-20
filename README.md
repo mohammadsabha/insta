@@ -58,11 +58,6 @@ Full-Stack Instgram Clone using MERN Stack and Socket.io
 - Post Liked by Users
 - Emoji Enabled (Emoji Mart)
 
-Branch [dev-v3-cloudinary](https://github.com/jigar-sable/instagram-mern/tree/dev-v3-cloudinary) uses Cloudinary to store images.
-
-Branch [dev-v2-aws](https://github.com/jigar-sable/instagram-mern/tree/dev-v2-aws) uses AWS S3 to store images.
-
-Branch [dev-v1](https://github.com/jigar-sable/instagram-mern/tree/dev-v1) uses local storage.
 
 ## Sneak Peek of Home Page 🙈 :
 ![home](https://user-images.githubusercontent.com/64949957/159116089-cfc2b4c5-dc7d-4d4b-a0c8-668f89ce5412.png)
