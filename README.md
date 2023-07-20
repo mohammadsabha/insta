@@ -59,19 +59,7 @@ Full-Stack Instgram Clone using MERN Stack and Socket.io
 - Emoji Enabled (Emoji Mart)
 
 
-## Sneak Peek of Home Page 🙈 :
-![home](https://user-images.githubusercontent.com/64949957/159116089-cfc2b4c5-dc7d-4d4b-a0c8-668f89ce5412.png)
 
-<table>
-  <tr>
-    <td><img src="" alt="mockup" /></td>
-    <td><img src="" alt="mockups" /></td>
-  </tr>
-  <tr>
-    <td><img src="" alt="mockup" /></td>
-    <td><img src="" alt="mockups" /></td>
-  </tr>
-</table>
 
 <h2>📬 Contact</h2>
 
